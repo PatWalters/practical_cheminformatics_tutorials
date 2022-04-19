@@ -8,6 +8,8 @@ A set of Jupyter notebooks for learning Cheminformatics
 4. [SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMARTS_tutorial.ipynb)
 5. Recursive SMARTS - Under Construction
 #### Machine Learning Models
+6. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
+7. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
 
 
 ### Acknowledgements
