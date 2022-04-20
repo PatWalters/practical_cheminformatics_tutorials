@@ -7,12 +7,17 @@ A set of Jupyter notebooks for learning Cheminformatics
 3. [SMILES Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMILES_tutorial.ipynb)
 4. [SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMARTS_tutorial.ipynb)
 5. Recursive SMARTS - Under Construction
+
+#### Clustering
+6. [K-Means Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/kmeans_clustering.ipynb)
+7. [Taylor-Butina Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/taylor_butina_clustering.ipynb)
+
 #### Machine Learning Models
-6. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
-7. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
+8. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
+9. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
 
 ### Corrections Welcome
-Please submit an issue or a PR if you come across any mistakes or typos in any of these notebooks.
+This is a work in progress.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if there are aspects that could be explained more clearly. 
 
 ### Acknowledgements
 These tutorials wouldn't be possible without the work of Greg Landrum and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and the his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks! 
