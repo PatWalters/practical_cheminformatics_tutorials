@@ -1,5 +1,5 @@
 ### Practical Cheminformatics With Open Source Software
-A set of Jupyter notebooks for learning Cheminformatics
+A set of Jupyter notebooks for learning Cheminformatics.  The links below will open the tutorials on Google Colab.  This way you can run the notebooks without having to install software. 
 
 #### Fundamentals
 1. [A Whirlwind Introduction to the RDKit for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/A_Whirlwind_Introduction_To_The_RDKit.ipynb)
@@ -20,4 +20,4 @@ A set of Jupyter notebooks for learning Cheminformatics
 This is a work in progress.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if there are aspects that could be explained more clearly. 
 
 ### Acknowledgements
-These tutorials wouldn't be possible without the work of Greg Landrum and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and the his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks! 
+These tutorials wouldn't be possible without the work of Greg Landrum, Brian Kelley and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and the his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks! 
