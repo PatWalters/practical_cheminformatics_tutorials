@@ -13,9 +13,13 @@ A set of Jupyter notebooks for learning Cheminformatics.  The links below will o
 7. [Taylor-Butina Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/taylor_butina_clustering.ipynb)
 8. [Self-Organizing Maps](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/self_organizing_map.ipynb)
 
+#### SAR Analysis
+9. [Positional Analogue Scanning](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/positional_analogue_scanning.ipynb)
+10. Free-Wilson Analysis - Under Construction
+
 #### Machine Learning Models
-8. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
-9. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
+11. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
+12. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
 
 ### Corrections Welcome
 This is a work in progress.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if there are aspects that could be explained more clearly. 
