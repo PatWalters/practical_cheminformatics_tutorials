@@ -11,6 +11,7 @@ A set of Jupyter notebooks for learning Cheminformatics.  The links below will o
 #### Clustering
 6. [K-Means Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/kmeans_clustering.ipynb)
 7. [Taylor-Butina Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/taylor_butina_clustering.ipynb)
+8. [Self-Organizing Maps](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/self_organizing_map.ipynb)
 
 #### Machine Learning Models
 8. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
