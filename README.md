@@ -1,5 +1,5 @@
 ### Practical Cheminformatics With Open Source Software
-A set of Jupyter notebooks for learning Cheminformatics.  The links below will open the tutorials on Google Colab.  This way you can run the notebooks without having to install software. 
+A set of Jupyter notebooks for learning Cheminformatics.  The links below will open the tutorials on Google Colab.  This way you can run the notebooks without having to install software on your computer.
 
 #### Fundamentals
 1. [A Whirlwind Introduction to the RDKit for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/A_Whirlwind_Introduction_To_The_RDKit.ipynb)
