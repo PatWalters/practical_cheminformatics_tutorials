@@ -26,6 +26,8 @@ A set of Jupyter notebooks for learning Cheminformatics.  The links below will o
 16. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
 17. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
 
+#### Additional topics will be added
+
 ### A Bit of History
 These notebooks began as part of a two day workshop I did at the University of Bonn in 2019.  Since then, the notebooks have a evolved and additional notebooks have been added.  A lot of the notebooks started as posts on my blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/). I originally had everything running on Binder, but I found some capacity limits with larger groups and moved everything to Google Colab.  I'm planning to continue to add to and revise these as long as people are interested. 
 
