@@ -18,12 +18,13 @@ A set of Jupyter notebooks for learning Cheminformatics.  The links below will o
 10. [R-group Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/R_group_analysis.ipynb)
 11. [Positional Analogue Scanning](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/positional_analogue_scanning.ipynb)
 12. Free-Wilson Analysis - Under Construction
+13. Matched Molecular Pairs - Under Construction
 
 #### Machine Learning Models
-13. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
-14. [Comparing Classification Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_classification_models.ipynb)
-15. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
-16. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
+14. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
+15. [Comparing Classification Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_classification_models.ipynb)
+16. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
+17. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
 
 ### A Bit of History
 These notebooks began as part of a two day workshop I did at the University of Bonn in 2019.  Since then, the notebooks have a evolved and additional notebooks have been added.  A lot of the notebooks started as post on my blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/). I originally had everything running on Binder, but I found some capacity limits with larger groups and moved everything to Google Colab.  I'm planning to continue to add to and revise these as long as people are interested. 
