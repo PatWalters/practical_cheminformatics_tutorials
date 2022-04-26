@@ -29,10 +29,10 @@ A set of Jupyter notebooks for learning Cheminformatics.  The links below will o
 #### Additional topics will be added
 
 ### A Bit of History
-These notebooks began as part of a two day workshop I did at the University of Bonn in 2019.  Since then, the notebooks have a evolved and additional notebooks have been added.  A lot of the notebooks started as posts on my blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/). I originally had everything running on Binder, but I found some capacity limits with larger groups and moved everything to Google Colab.  I'm planning to continue to add to and revise these as long as people are interested. 
+These notebooks began as part of a two-day workshop I did at the University of Bonn in 2019.  Since then, the notebooks have evolved and additional notebooks have been added.  A lot of the notebooks started as posts on my blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/). I originally had everything running on Binder, but I found some capacity limits with larger groups and moved everything to Google Colab.  I'm planning to continue to add to and revise these as long as people are interested. 
 
 ### Suggestions and Corrections Welcome
-This is a work in progress.  As you can see above, I'm still working on some of the notebooks.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if there are aspects that could be explained more clearly.  I'd also be interested in hearing about additional topics that you'd like to see covered. 
+This is a work in progress.  As you can see above, I'm still working on a few of the notebooks.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if there are aspects that could be explained more clearly.  I'd also be interested in hearing about additional topics that you'd like to see covered. 
 
 ### Acknowledgements
-These tutorials wouldn't be possible without the work of Greg Landrum, Brian Kelley and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and the his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks! 
+These tutorials wouldn't be possible without the work of Greg Landrum, Brian Kelley and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks! 
