@@ -64,7 +64,7 @@ def find_scaffolds(df_in):
     # Loop over molecules and generate fragments, fragments for each molecule are returned as a Pandas dataframe
     df_list = []
     for smiles, name, mol in tqdm(df_in[["SMILES", "Name", "mol"]].values):
-        tmp_df = generate_fragments(mol)
+        tmp_df = generate_fragments(mol).copy()
         tmp_df['Name'] = name
         tmp_df['SMILES'] = smiles
         df_list.append(tmp_df)
@@ -130,3 +130,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
