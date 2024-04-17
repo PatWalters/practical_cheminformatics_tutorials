@@ -8,40 +8,42 @@ clone the repo and run these notebooks on your own computer.
 2. [A Brief Introduction to Pandas for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/pandas_intro.ipynb)
 3. [SMILES Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMILES_tutorial.ipynb)
 4. [SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMARTS_tutorial.ipynb)
-5. Recursive SMARTS - Under Construction
-6. Reaction SMARTS - Under Construction
+5. Recursive SMARTS Tutorial - Coming Soon
+6. Reaction Enumeration, the basics - Coming Soon
+7. Reaction Enumeration, advanced - Coming Soon
+8. [Enumerating Stereoisomers and Tautomers](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/stereo_and_tautomers.ipynb)
 
 #### Using [datamol](https://datamol.io) and [molfeat](https://datamol.io) to Streamline Cheminformatics Workflows
-7. [Data Manipulation, Descriptors and Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/datamol/datamol_1.ipynb)
+9. [Data Manipulation, Descriptors and Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/datamol/datamol_1.ipynb)
 
 #### Clustering
-8. [K-Means Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/kmeans_clustering.ipynb)
-9. [Taylor-Butina Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/taylor_butina_clustering.ipynb)
-10. [Self-Organizing Maps](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/self_organizing_map.ipynb)
+10. [K-Means Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/kmeans_clustering.ipynb)
+11. [Taylor-Butina Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/taylor_butina_clustering.ipynb)
+12. [Self-Organizing Maps](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/self_organizing_map.ipynb)
 
 #### Misc Cheminformatics Analysis
-11. [ChEMBL Ring System Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/ChEMBL_ring_system_analysis.ipynb)
-12. [Working With Drug Data from the ChEMBL Database](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/working_with_ChEMBL_drug_data.ipynb)
+13. [ChEMBL Ring System Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/ChEMBL_ring_system_analysis.ipynb)
+14. [Working With Drug Data from the ChEMBL Database](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/working_with_ChEMBL_drug_data.ipynb)
 
 #### SAR Analysis
-13. [Identifying Scaffolds](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/find_scaffolds.ipynb)
-14. [R-group Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/R_group_analysis.ipynb)
-15. [Positional Analogue Scanning](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/positional_analogue_scanning.ipynb)
-16. [Free-Wilson Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/free_wilson.ipynb)
-17. [Matched Molecular Pairs](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_pairs.ipynb)
-18. [Matched Molecular Series](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_series.ipynb)
+15. [Identifying Scaffolds](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/find_scaffolds.ipynb)
+16. [R-group Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/R_group_analysis.ipynb)
+17. [Positional Analogue Scanning](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/positional_analogue_scanning.ipynb)
+18. [Free-Wilson Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/free_wilson.ipynb)
+19. [Matched Molecular Pairs](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_pairs.ipynb)
+20. [Matched Molecular Series](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_series.ipynb)
 
 #### Machine Learning Models
-19. [Build and Test a QSAR Model in 8 Lines of Python](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/QSAR_in_8_lines.ipynb)
-20. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
-21. [Comparing Classification Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_classification_models.ipynb)
-22. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
-23. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
+21. [Build and Test a QSAR Model in 8 Lines of Python](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/QSAR_in_8_lines.ipynb)
+22. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
+23. [Comparing Classification Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_classification_models.ipynb)
+24. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
+25. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
 
 ### Active Learning
-24. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
-25. [Active Regression](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_regression.ipynb)
-26. [Active Shape Search](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_shape_search.ipynb)
+26. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
+27. [Active Regression](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_regression.ipynb)
+28. [Active Shape Search](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_shape_search.ipynb)
 
 
 #### Additional topics will be added
