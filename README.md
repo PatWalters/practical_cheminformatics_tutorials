@@ -8,9 +8,9 @@ clone the repo and run these notebooks on your own computer.
 2. [A Brief Introduction to Pandas for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/pandas_intro.ipynb)
 3. [SMILES Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMILES_tutorial.ipynb)
 4. [SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/SMARTS_tutorial.ipynb)
-5. Recursive SMARTS Tutorial - Coming Soon
-6. Reaction Enumeration, the basics - Coming Soon
-7. Reaction Enumeration, advanced - Coming Soon
+5. [Recursive SMARTS Tutorial](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/recursive_smarts.ipynb)
+6. [Reaction Enumeration, the basics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/reaction_basics.ipynb)
+7. [Reaction Enumeration, advanced](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/reaction_advanced.ipynb)
 8. [Enumerating Stereoisomers and Tautomers](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/stereo_and_tautomers.ipynb)
 
 #### Using [datamol](https://datamol.io) and [molfeat](https://datamol.io) to Streamline Cheminformatics Workflows
