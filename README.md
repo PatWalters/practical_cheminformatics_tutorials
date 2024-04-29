@@ -56,4 +56,4 @@ This is a work in progress.  As you can see above, I'm still working on a few no
 If you find these tutorials useful, please consider starring this repo.
 
 ### Acknowledgements
-These tutorials wouldn't be possible without the work of Greg Landrum, Brian Kelley, and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks! Thanks to Noel O'Boyle, Rafael Lameiro, and Jennifer HY Lin for helping to keep the notebooks up to date as the underlying software libraries evolve.
+These tutorials wouldn't be possible without the work of Greg Landrum, Brian Kelley, and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks to Noel O'Boyle, Rafael Lameiro, and Jennifer HY Lin for helping to keep the notebooks up to date as the underlying software libraries evolve.
