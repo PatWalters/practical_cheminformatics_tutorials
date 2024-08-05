@@ -24,29 +24,30 @@ clone the repo and run these notebooks on your own computer.
 #### Misc Cheminformatics Analysis
 13. [ChEMBL Ring System Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/ChEMBL_ring_system_analysis.ipynb)
 14. [Working With Drug Data from the ChEMBL Database](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/working_with_ChEMBL_drug_data.ipynb)
+15. [Analyzing Patent Data from BindingDB](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/patent/patent_analysis.ipynb)
 
 #### SAR Analysis
-15. [Identifying Scaffolds](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/find_scaffolds.ipynb)
-16. [R-group Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/R_group_analysis.ipynb)
-17. [Positional Analogue Scanning](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/positional_analogue_scanning.ipynb)
-18. [Free-Wilson Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/free_wilson.ipynb)
-19. [Matched Molecular Pairs](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_pairs.ipynb)
-20. [Matched Molecular Series](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_series.ipynb)
+16. [Identifying Scaffolds](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/find_scaffolds.ipynb)
+17. [R-group Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/R_group_analysis.ipynb)
+18. [Positional Analogue Scanning](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/positional_analogue_scanning.ipynb)
+19. [Free-Wilson Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/free_wilson.ipynb)
+20. [Matched Molecular Pairs](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_pairs.ipynb)
+21. [Matched Molecular Series](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/matched_molecular_series.ipynb)
 
 #### Machine Learning Models
-21. [Build and Test a QSAR Model in 8 Lines of Python](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/QSAR_in_8_lines.ipynb)
-22. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
-23. [Comparing Classification Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_classification_models.ipynb)
-24. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
-25. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
+22. [Build and Test a QSAR Model in 8 Lines of Python](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/QSAR_in_8_lines.ipynb)
+23. [Building a Classification Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/classification_model.ipynb)
+24. [Comparing Classification Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_classification_models.ipynb)
+25. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
+26. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
 
 ### Active Learning
-26. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
-27. [Active Regression](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_regression.ipynb)
-28. [Active Shape Search](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_shape_search.ipynb)
+27. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
+28. [Active Regression](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_regression.ipynb)
+29. [Active Shape Search](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_shape_search.ipynb)
 
 ### Neural Network Potentials
-29. [Tautomer Energies with Auto3D](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/qm/tautomer_energies.ipynb)
+30. [Tautomer Energies with Auto3D](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/qm/tautomer_energies.ipynb)
 
 
 #### Additional topics will be added
