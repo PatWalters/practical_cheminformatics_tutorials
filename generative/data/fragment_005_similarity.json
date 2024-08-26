@@ -1,0 +1,45 @@
+{
+  "task": "fragment_005_similarity",
+  "output_dir": "./",
+  "load_from_previous": false,
+  "logging": false,
+  "monitor_app": false,
+  "diversity_filter": {
+    "run": false
+  },
+  "scoring_functions": [
+    {
+      "name": "TanimotoSimilarity",
+      "run": true,
+      "parameters": {
+        "prefix": "fragment_005",
+          "ref_smiles": [
+          "Clc1ccc(cc1)[C@H]2CN[C@H](C2)C(=O)N3CCN(CC3)c4nccc5ccsc45"	      
+        ],
+        "radius": 2,
+        "bits": 1024,
+        "features": true,
+        "counts": true,
+        "method": "max",
+        "n_jobs": 1
+      }
+    }
+  ],
+  "scoring": {
+    "method": "single",
+    "metrics": [
+      {
+        "name": "fragment_005_Sim",
+        "weight": 1.0,
+        "modifier": "lin_thresh",
+        "parameters": {
+          "objective": "maximize",
+          "upper": 0.75,
+          "lower": 0.0,
+          "buffer": 0.75
+        }
+      }
+    ]
+  }
+}
+
