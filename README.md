@@ -25,7 +25,7 @@ clone the repo and run these notebooks on your own computer.
 13. [ChEMBL Ring System Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/ChEMBL_ring_system_analysis.ipynb)
 14. [Working With Drug Data from the ChEMBL Database](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/working_with_ChEMBL_drug_data.ipynb)
 15. [Analyzing Patent Data from BindingDB](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/patent/patent_analysis.ipynb)
-16. Interactive Visualization of Chemical Space
+16. [Interactive Visualization of Chemical Space](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/visualizing_chemical_space.ipynb)
 
 #### SAR Analysis
 17. [Identifying Scaffolds](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/sar_analysis/find_scaffolds.ipynb)
