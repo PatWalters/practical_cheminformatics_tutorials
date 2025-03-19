@@ -56,7 +56,7 @@ clone the repo and run these notebooks on your own computer.
 ### Bayesian Optimization
 33. [Use Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/reaction/bayesian_reaction_optimization.ipynb)
 
-#### Additional topics will be added
+#### Additional topics will be added. Please reach out with any requests. 
 
 ### A Bit of History
 These notebooks began as part of a two-day workshop I did at the University of Bonn in 2019.  Since then, they have evolved, and additional notebooks have been added. Many of the notebooks started as posts on my blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/). I originally had everything running on Binder, but I found some capacity limits with larger groups and moved everything to Google Colab.  I plan to continue adding to and revising these as long as people are interested.
