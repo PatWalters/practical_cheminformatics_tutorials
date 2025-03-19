@@ -53,6 +53,8 @@ clone the repo and run these notebooks on your own computer.
 ### Generataive Models
 32. [Generative Molecular Design with SMILES-RNN](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/generative/SMILES_RNN.ipynb)
 
+### Bayesian Optimization
+33. [Use Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/reaction/bayesian_reaction_optimization.ipynb)
 
 #### Additional topics will be added
 
