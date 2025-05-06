@@ -1,8 +1,9 @@
-import pandas as pd
 import numpy as np
 import scipy.stats as stats
 
 # from https://github.com/yandexdataschool/roc_comparison/blob/master/compare_auc_delong_xu.py
+
+import scipy
 
 # AUC comparison adapted from
 # https://github.com/Netflix/vmaf/
@@ -108,8 +109,8 @@ def calc_pvalue(aucs, sigma):
     Returns:
        log10(pvalue)
     """
-    l = np.array([[1, -1]])
-    z = np.abs(np.diff(aucs)) / np.sqrt(np.dot(np.dot(l, sigma), l.T))
+    x = np.array([[1, -1]])
+    z = np.abs(np.diff(aucs)) / np.sqrt(np.dot(np.dot(x, sigma), x.T))
     return np.log10(2) + scipy.stats.norm.logsf(z, loc=0, scale=1) / np.log(10)
 
 
@@ -151,7 +152,6 @@ def delong_roc_test(ground_truth, predictions_one, predictions_two):
        predictions_two: predictions of the second model,
           np.array of floats of the probability of being class 1
     """
-    sample_weight = None
     order, label_1_count = compute_ground_truth_statistics(ground_truth)
     predictions_sorted_transposed = np.vstack((predictions_one, predictions_two))[:, order]
     aucs, delongcov = fastDeLong(predictions_sorted_transposed, label_1_count)
