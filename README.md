@@ -60,7 +60,7 @@ clone the repo and run these notebooks on your own computer.
 33. [Using Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/bayesian_reaction_optimization.ipynb)
 
 ### Tricks and Tips  
-34. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/RDKit_tricks_and_tips.ipynb)
+34. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/tricks_and_tips/rdkit_tricks_01.ipynb)
 
 
 #### Additional topics will be added. Please reach out with any requests. 
