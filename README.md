@@ -21,10 +21,13 @@ clone the repo and run these notebooks on your own computer.
 11. [Taylor-Butina Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/taylor_butina_clustering.ipynb)
 12. [Self-Organizing Maps](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/self_organizing_map.ipynb)
 
-#### Misc Cheminformatics Analysis
+### ChEMBL and BindingDB
 13. [ChEMBL Ring System Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/ChEMBL_ring_system_analysis.ipynb)
 14. [Working With Drug Data from the ChEMBL Database](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/working_with_ChEMBL_drug_data.ipynb)
 15. [Analyzing Patent Data from BindingDB](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/patent/patent_analysis.ipynb)
+
+#### Misc Cheminformatics Analysis
+
 16. [Interactive Visualization of Chemical Space](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/visualizing_chemical_space.ipynb)
 
 #### SAR Analysis
@@ -55,6 +58,10 @@ clone the repo and run these notebooks on your own computer.
 
 ### Bayesian Optimization
 33. [Using Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/bayesian_reaction_optimization.ipynb)
+
+### Tricks and Tips  
+34. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/RDKit_tricks_and_tips.ipynb)
+
 
 #### Additional topics will be added. Please reach out with any requests. 
 
