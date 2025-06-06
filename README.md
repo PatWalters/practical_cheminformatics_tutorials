@@ -21,7 +21,7 @@ clone the repo and run these notebooks on your own computer.
 11. [Taylor-Butina Clustering](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/taylor_butina_clustering.ipynb)
 12. [Self-Organizing Maps](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/clustering/self_organizing_map.ipynb)
 
-### ChEMBL and BindingDB
+#### ChEMBL and BindingDB
 13. [ChEMBL Ring System Analysis](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/ChEMBL_ring_system_analysis.ipynb)
 14. [Working With Drug Data from the ChEMBL Database](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/working_with_ChEMBL_drug_data.ipynb)
 15. [Analyzing Patent Data from BindingDB](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/patent/patent_analysis.ipynb)
@@ -45,32 +45,32 @@ clone the repo and run these notebooks on your own computer.
 26. [Building a Regression Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/regression_model.ipynb)
 27. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
 
-### Active Learning
+#### Active Learning
 28. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
 29. [Active Regression](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_regression.ipynb)
 30. [Active Shape Search](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_shape_search.ipynb)
 
-### Neural Network Potentials
+#### Neural Network Potentials
 31. [Tautomer Energies with Auto3D](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/qm/tautomer_energies.ipynb)
 
-### Generataive Models
+###E Generataive Models
 32. [Generative Molecular Design with SMILES-RNN](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/generative/SMILES_RNN.ipynb)
 
-### Bayesian Optimization
+#### Bayesian Optimization
 33. [Using Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/bayesian_reaction_optimization.ipynb)
 
-### Tricks and Tips  
+#### Tricks and Tips  
 34. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/tricks_and_tips/rdkit_tricks_01.ipynb)
 
 
 #### Additional topics will be added. Please reach out with any requests. 
 
-### A Bit of History
+#### A Bit of History
 These notebooks began as part of a two-day workshop I did at the University of Bonn in 2019.  Since then, they have evolved, and additional notebooks have been added. Many of the notebooks started as posts on my blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/). I originally had everything running on Binder, but I found some capacity limits with larger groups and moved everything to Google Colab.  I plan to continue adding to and revising these as long as people are interested.
 
-### Suggestions and Corrections Welcome
+#### Suggestions and Corrections Welcome
 This is a work in progress.  As you can see above, I'm still working on a few notebooks.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if aspects could be explained more clearly.  I'd also like to hear more about topics you'd like to see covered.
 If you find these tutorials useful, please consider starring this repo.
 
-### Acknowledgements
+###E Acknowledgements
 These tutorials wouldn't be possible without the work of Greg Landrum, Brian Kelley, and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks to Noel O'Boyle, Rafael Lameiro, and Jennifer HY Lin for helping to keep the notebooks up to date as the underlying software libraries evolve.
