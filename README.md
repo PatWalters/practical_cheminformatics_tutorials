@@ -1,6 +1,6 @@
 ### Practical Cheminformatics With Open Source Software
 A set of Jupyter notebooks for learning Cheminformatics.  The links below will open the tutorials on Google Colab.
-This way you can run the notebooks without having to install software on your computer. Of course, you can also just
+This way you can run the notebooks without having to install software on your computer. Of course, you can also
 clone the repo and run these notebooks on your own computer.
 
 #### Fundamentals
@@ -53,7 +53,7 @@ clone the repo and run these notebooks on your own computer.
 #### Neural Network Potentials
 31. [Tautomer Energies with Auto3D](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/qm/tautomer_energies.ipynb)
 
-###E Generataive Models
+#### Generative Models
 32. [Generative Molecular Design with SMILES-RNN](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/generative/SMILES_RNN.ipynb)
 
 #### Bayesian Optimization
@@ -72,5 +72,5 @@ These notebooks began as part of a two-day workshop I did at the University of B
 This is a work in progress.  As you can see above, I'm still working on a few notebooks.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if aspects could be explained more clearly.  I'd also like to hear more about topics you'd like to see covered.
 If you find these tutorials useful, please consider starring this repo.
 
-###E Acknowledgements
+#### Acknowledgements
 These tutorials wouldn't be possible without the work of Greg Landrum, Brian Kelley, and the [RDKit](https://www.rdkit.org/) team, as well as Cédric Bouysset and his work on [mols2grid](https://github.com/cbouy/mols2grid). Thanks to Noel O'Boyle, Rafael Lameiro, and Jennifer HY Lin for helping to keep the notebooks up to date as the underlying software libraries evolve.
