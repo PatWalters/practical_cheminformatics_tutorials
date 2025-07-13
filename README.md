@@ -70,7 +70,7 @@ clone the repo and run these notebooks on your own computer.
 These notebooks began as part of a two-day workshop I did at the University of Bonn in 2019.  Since then, they have evolved, and additional notebooks have been added. Many of the notebooks started as posts on my blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/). I originally had everything running on Binder, but I found some capacity limits with larger groups and moved everything to Google Colab.  I plan to continue adding to and revising these as long as people are interested.
 
 #### Suggestions and Corrections Welcome
-This is a work in progress.  As you can see above, I'm still working on a few notebooks.  It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if aspects could be explained more clearly.  I'd also like to hear more about topics you'd like to see covered.
+This is a work in progress. It's more than possible that these tutorials contain mistakes and/or typos.  If you find something that should be corrected, please submit an issue or a PR.  In addition, I'm always looking to improve the text.  Please let me know if aspects could be explained more clearly.  I'd also like to hear more about topics you'd like to see covered.
 If you find these tutorials useful, please consider starring this repo.
 
 #### Acknowledgements
