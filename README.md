@@ -47,22 +47,27 @@ clone the repo and run these notebooks on your own computer.
 28. [Comparing Regression Models](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/comparing_regression_models.ipynb)
 29. [Performing Cross-Valiation](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/ml_models/cross_validation.ipynb)
 
+### Biotite
+30. [Introduction to Biotite for Structural Bioinformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/biotite/biotite_intro.ipynb)
+31. Evaluating Co-folding results - coming soon!
+
 #### Active Learning
-30. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
-31. [Active Regression](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_regression.ipynb)
-32. [Active Shape Search](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_shape_search.ipynb)
+32. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
+33. [Active Regression](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_regression.ipynb)
+34. [Active Shape Search](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_shape_search.ipynb)
 
 #### Neural Network Potentials
-33. [Tautomer Energies with Auto3D](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/qm/tautomer_energies.ipynb)
+35. [Tautomer Energies with Auto3D](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/qm/tautomer_energies.ipynb)
 
 #### Generative Models
-34. [Generative Molecular Design with SMILES-RNN](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/generative/SMILES_RNN.ipynb)
+36. [Generative Molecular Design with SMILES-RNN](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/generative/SMILES_RNN.ipynb)
 
 #### Bayesian Optimization
-35. [Using Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/bayesian_reaction_optimization.ipynb)
+37. [Using Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/bayesian_reaction_optimization.ipynb)
 
-#### Tricks and Tips  
-36. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/tricks_and_tips/rdkit_tricks_01.ipynb)
+#### Tricks and Tips
+38. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/tricks_and_tips/rdkit_tricks_01.ipynb)
+
 
 
 #### Additional topics will be added. Please reach out with any requests. 
