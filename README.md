@@ -49,7 +49,7 @@ clone the repo and run these notebooks on your own computer.
 
 ### Biotite
 30. [Introduction to Biotite for Structural Bioinformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/biotite/biotite_intro.ipynb)
-31. [Evaluating Co-folding results with Biotite](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/biotite/evaluating_cofolding_results.ipynb)
+31. [Evaluating Co-folding Results with Biotite](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/biotite/evaluate_cofolding.ipynb)
 
 #### Active Learning
 32. [Active Classification](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/active_learning/active_classification.ipynb)
