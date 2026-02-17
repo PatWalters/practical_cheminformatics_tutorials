@@ -26,7 +26,7 @@ clone the repo and run these notebooks on your own computer.
 14. [Working With Drug Data from the ChEMBL Database](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/working_with_ChEMBL_drug_data.ipynb)
 15. [Analyzing Patent Data from BindingDB](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/patent/patent_analysis.ipynb)
 16. [Searching ChEMBL for Interesting SAR](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/misc/ChEMBL_hERG_series.ipynb)
-17. [Using Data from BindingDb to Build a Machine Learning Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/bindingdb/bindingdb_pxr_tutorial.ipynb)
+17. [Using Data from BindingDb to Build a Machine Learning Model](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/bindingdb/binding_db_pxr_tutorial.ipynb)
 
 #### Misc Cheminformatics Analysis
 
