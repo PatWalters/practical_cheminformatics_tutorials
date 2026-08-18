@@ -152,7 +152,7 @@ def delong_roc_test(ground_truth, predictions_one, predictions_two):
        predictions_two: predictions of the second model,
           np.array of floats of the probability of being class 1
     """
-    order, label_1_count = compute_ground_truth_statistics(ground_truth)
+    order, label_1_count, _ = compute_ground_truth_statistics(ground_truth)
     predictions_sorted_transposed = np.vstack((predictions_one, predictions_two))[:, order]
     aucs, delongcov = fastDeLong(predictions_sorted_transposed, label_1_count)
     return calc_pvalue(aucs, delongcov)
@@ -168,4 +168,5 @@ def calc_auc_ci(y_true, y_pred, alpha=0.95):
         scale=auc_std)
 
     ci[ci > 1] = 1
+    ci[ci < 0] = 0
     return auc, ci
