@@ -64,10 +64,14 @@ clone the repo and run these notebooks on your own computer.
 37. [Generative Molecular Design with SMILES-RNN](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/generative/SMILES_RNN.ipynb)
 
 #### Bayesian Optimization
-37. [Using Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/bayesian_reaction_optimization.ipynb)
+38. [Using Bayesian Methods to Optimize Reaction Conditions](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/reaction/bayesian_reaction_optimization.ipynb)
 
 #### Tricks and Tips
-38. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/tricks_and_tips/rdkit_tricks_01.ipynb)
+39. [RDKit Tricks and Tips](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/tricks_and_tips/rdkit_tricks_01.ipynb)
+
+#### ChemProp
+40. [Building a Regression Model with ChemProp](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/chemprop/run_chemprop.ipynb)
+41. [Building a ChemProp Model with RDKit Descriptors](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/chemprop/run_chemprop_rddesc.ipynb)
 
 
 
