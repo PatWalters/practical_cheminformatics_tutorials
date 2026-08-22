@@ -49,7 +49,7 @@ def generate_fragments(mol):
     # Add the input molecule to the fragment list
     frag_smiles_list.append([Chem.MolToSmiles(mol), mol.GetNumAtoms(), 1])
     # Put the results into a Pandas dataframe
-    frag_df = pd.DataFrame(frag_smiles_list, columns=["Scaffold", "NumAtoms", "NumRgroupgs"])
+    frag_df = pd.DataFrame(frag_smiles_list, columns=["Scaffold", "NumAtoms", "NumRgroups"])
     # Remove duplicate fragments
     frag_df = frag_df.drop_duplicates("Scaffold")
     return frag_df
